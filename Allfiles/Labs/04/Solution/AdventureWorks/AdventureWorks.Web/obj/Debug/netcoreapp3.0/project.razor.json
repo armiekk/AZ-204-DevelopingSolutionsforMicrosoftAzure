@@ -1,0 +1,45 @@
+{
+  "FilePath": "f:\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Solution\\AdventureWorks\\AdventureWorks.Web\\AdventureWorks.Web.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "AdventureWorks.Web",
+  "Documents": [
+    {
+      "FilePath": "f:\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Solution\\AdventureWorks\\AdventureWorks.Web\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Solution\\AdventureWorks\\AdventureWorks.Web\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Solution\\AdventureWorks\\AdventureWorks.Web\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Solution\\AdventureWorks\\AdventureWorks.Web\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Solution\\AdventureWorks\\AdventureWorks.Web\\Pages\\Details.cshtml",
+      "TargetPath": "Pages\\Details.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
